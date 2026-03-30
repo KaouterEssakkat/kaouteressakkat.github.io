@@ -24,8 +24,6 @@ Behavioral Economics
 Discrete Choice Experiments  
 Agent-Based Modeling  
 
-## Working Papers
-
 ## Research
 
 ### Peer-Reviewed Publication
