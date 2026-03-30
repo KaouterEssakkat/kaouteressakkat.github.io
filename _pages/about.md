@@ -7,7 +7,7 @@ author_profile: true
 
 ## About
 
-I am a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign. My research lies in applied microeconomics, with a focus on environmental and natural resource economics, technology adoption, and behavioral responses to economic incentives.
+I am a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign. I received my Ph.D. in Agricultural Economics from the University of Nebraska–Lincoln in 2024. My research lies in applied microeconomics, with a focus on environmental and natural resource economics, particularly the valuation of ecosystem services, technology adoption, and behavioral responses to economic incentives.
 
 My work studies how agricultural producers value environmental outcomes and respond to policy incentives in the presence of environmental externalities. A central focus of my Ph.D. research is the valuation of soil health–associated ecosystem services and the extent to which producer households internalize both private and public benefits. I use discrete choice experiments and econometric models to estimate willingness to pay and characterize preference heterogeneity across producers.
 
@@ -53,7 +53,3 @@ Comparing Willingness to Pay for Ecosystem Services Between Potential Buyers and
 
 **Essakkat, K., & Schoengold, K.**  
 Drivers of Adoption of Cover Crops in the U.S. Midwest  
-
-## Contact
-
-Email: essakkat@illinois.edu
