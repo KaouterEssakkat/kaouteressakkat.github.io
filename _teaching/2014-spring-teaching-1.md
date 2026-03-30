@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Teaching Assistant
 
-Heading 1
-======
+**Resource and Environmental Economics (AECN 265)**  
+University of Nebraska–Lincoln, 2023  
 
-Heading 2
-======
-
-Heading 3
-======
+**Science and Decision-Making (SCIL 101)**  
+University of Nebraska–Lincoln, 2021–2023  
