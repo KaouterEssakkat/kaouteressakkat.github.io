@@ -1,152 +1,118 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Kaouter Essakkat",
+    "email": "essakkat@illinois.edu",
+    "website": "https://kaouteressakkat.github.io",
+    "summary": "Postdoctoral Research Associate at the University of Illinois Urbana-Champaign. Research in environmental and resource economics, technology adoption, and behavioral responses to economic incentives.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "Institute for Sustainability, Energy, and Environment, University of Illinois Urbana-Champaign",
+      "postalCode": "61820",
+      "city": "Champaign",
       "countryCode": "US",
-      "region": ""
+      "region": "IL"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=20v2uKAAAAAJ&hl=fr"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/KaouterEssakkat"
       }
     ]
   },
-  "work": [],
+
+  "work": [
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "position": "Postdoctoral Research Associate",
+      "startDate": "2024-09",
+      "summary": "Institute for Sustainability, Energy, and Environment (iSEE).",
+      "highlights": [
+        "Lead research on adoption of AI-based technologies in agricultural systems under environmental externalities.",
+        "Develop a coupled human–natural systems framework linking discrete choice models with spatial agent-based models.",
+        "Analyze how heterogeneous preferences, peer effects, and ecological spillovers shape adoption and environmental outcomes.",
+      ]
+    },
+    {
+      "name": "University of Nebraska-Lincoln",
+      "position": "Graduate Research Assistant",
+      "startDate": "2020-08",
+      "endDate": "2024-08",
+      "highlights": [
+        "Designed and implemented a large-scale discrete choice experiment to study producer valuation of soil health-related ecosystem services.",
+        "Estimated willingness to pay and preference heterogeneity using mixed logit and latent class models.",
+        "Analyzed geographic location preferences and implications for policy design.",
+        "Examined adoption of conservation practices using spatial econometric methods."
+      ]
+    }
+  ],
+
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Nebraska-Lincoln",
+      "area": "Agricultural Economics",
+      "studyType": "Ph.D.",
+      "endDate": "2024-08"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "CIHEAM-MAICh, Greece",
+      "area": "Business Economics and Management",
+      "studyType": "M.Sc.",
+      "endDate": "2020-07"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Ibn Zohr University, Morocco",
+      "area": "Financial Audit and Management Control",
+      "studyType": "B.A.",
+      "endDate": "2018-07"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+
+  " selected presentations": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Spatial-Dynamic Adoption of AI Weeding Robots",
+      "event": "AI in Agriculture Conference",
+      "date": "2026",
+      "location": "Raleigh, NC"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Dynamic Adoption of AI Weeding Robots",
+      "event": "AAEA/WAEA Joint Meeting",
+      "date": "2025",
+      "location": "Denver, CO"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "From Data to Decisions: Modeling Farmer Adoption of AI Weed Technology",
+      "event": "DIGICROP Conference",
+      "date": "2025",
+      "location": "Bonn, Germany"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Exploring the Determinants of Cover Crop Adoption",
+      "event": "WAEA Annual Meeting",
+      "date": "2024",
+      "location": "San Francisco, CA"
     }
   ],
-  "presentations": [
+
+  "awards": [
+    { "title": "J.B. Hassler Research Excellence Award", "date": "2025" },
+    { "title": "Widaman Distinguished Graduate Fellow Award", "date": "2023–2024" },
+    { "title": "AAEA Trust Scholarship", "date": "2023" }
+  ],
+
+  "skills": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Software",
+      "keywords": ["Stata", "R", "NetLogo"]
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+
+  "languages": [
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "French", "fluency": "Fluent" },
+    { "language": "Arabic", "fluency": "Native" }
   ]
 }
