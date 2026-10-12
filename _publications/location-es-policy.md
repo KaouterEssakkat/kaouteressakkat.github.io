@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Adoption of AI Weeding Robots: Empirical Insights from a Choice Experiment-Based Agent-Based Model"
-collection: publications
+collection: Working Papers
 category: manuscripts
 permalink: /publication/ai-weeding-abm
 date: 2025-01-01
