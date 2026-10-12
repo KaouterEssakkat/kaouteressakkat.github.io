@@ -1,3 +1,4 @@
+
 ---
 layout: single
 title: ""
@@ -5,51 +6,51 @@ permalink: /
 author_profile: true
 ---
 
-## About
+## About Me
 
-I am a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign. I received my Ph.D. in Agricultural Economics from the University of Nebraska–Lincoln in 2024. My research lies in applied microeconomics, with a focus on environmental and natural resource economics, particularly the valuation of ecosystem services, technology adoption, and behavioral responses to economic incentives.
+I am a Postdoctoral Research Associate at the University of Illinois Urbana–Champaign, affiliated with the AIFARMS Institute and the Center for the Economics of Sustainability (CEOS). I received my Ph.D. in Agricultural Economics from the University of Nebraska–Lincoln in 2024.
 
-My work studies how agricultural producers value environmental outcomes and respond to policy incentives in the presence of environmental externalities. A central focus of my Ph.D. research is the valuation of soil health–associated ecosystem services and the extent to which producer households internalize both private and public benefits. I use discrete choice experiments and econometric models to estimate willingness to pay and characterize preference heterogeneity across producers.
+My research lies at the intersection of **economics of technology, behavioral and experimental economics, and applied microeconomics**. I study how heterogeneous preferences, economic incentives, and information shape individual decision-making, particularly the adoption of emerging technologies and sustainable agricultural practices.
 
-Building on this foundation, my current work examines the adoption and diffusion of AI-enabled robotic weeding technologies. I develop frameworks that integrate econometric estimates of behavior with dynamic ecological processes. In particular, I combine discrete choice models with spatial agent-based modeling to study how behavior and environmental feedback jointly determine adoption patterns and long-run outcomes.
+My current research examines the **adoption, discontinuation, and re-adoption of AI-enabled agricultural technologies**. I integrate discrete choice experiments with spatial agent-based models to investigate how individual decisions interact with evolving ecological conditions and generate broader economic and environmental outcomes.
 
-More broadly, my research connects ecosystem service valuation, technology adoption, and spatial externalities to inform the design of effective and targeted environmental policies.
+My doctoral research focused on the economic valuation of ecosystem services, agricultural conservation decisions, and the design of environmental policies. Using producer surveys, discrete choice experiments, and applied econometric methods, I examine how individuals value private and public environmental benefits and respond to economic incentives.
+
+More broadly, my research seeks to understand how individual preferences and decisions shape the adoption and diffusion of technologies and the effectiveness of economic and environmental policies.
 
 ## Research Interests
 
-Applied Microeconomics  
-Environmental and Resource Economics  
-Technology Adoption  
-Behavioral Economics  
-Discrete Choice Experiments  
-Agent-Based Modeling  
+Economics of Technology and Innovation · Behavioral and Experimental Economics · Applied Microeconomics · Technology Adoption and Diffusion · Computational Economics · Environmental and Resource Economics
 
-## Research
+## Research & Publications
 
-### Peer-Reviewed Publication
-
-**Essakkat, K., Mattas, K., Unay-Gailhard, I., & Baourakis, G. (2021)**  
-Youth’s Potential of Adopting the Mediterranean Diet Lifestyle in Response to Climate Change: Evidence from Crete, Greece.  
-*New Medit*, 20(5), 85–95.  
-
-### Manuscripts Under Review 
+### Submitted & Peer-Reviewed Publications
 
 **Essakkat, K., & Schoengold, K.**  
-Valuing Private and Public Soil Health-Associated Ecosystem Services: Evidence from U.S. Midwest Producer Households.  
-JOB MARKET PAPER
+*Valuing Private and Public Soil Health-Associated Ecosystem Services: Evidence from U.S. Midwest Producer Households.*  
+Journal of Agricultural and Resource Economics. **Revise and Resubmit** (revised manuscript submitted September 2026).
 
-### In Preparation for Submission
+**Essakkat, K., Mattas, K., Unay-Gailhard, I., & Baourakis, G. (2021).**  
+*Youth’s Potential of Adopting the Mediterranean Diet Lifestyle in Response to Climate Change: Evidence from Crete, Greece.*  
+New Medit, 20(5), 85–95.
+
+### Working Papers & Research in Progress
 
 **Essakkat, K., Wu, L., Atallah, S., & Khanna, M.**  
-Dynamic Adoption of AI Weeding Robots: Empirical Insights from a Choice Experiment-Based Agent-Based Model.  
-
-### Work in Progress
+*Dynamic Adoption of AI-Enabled Robotic Weed Management under Ecological Feedback and Spatial Spillovers.*  
+**Job Market Paper.** Planned submission to the Journal of Environmental Economics and Management (JEEM).
 
 **Essakkat, K., & Schoengold, K.**  
-Provision Location and Producer Support for Spatially Targeted Ecosystem Service Policies  
+*Provision Location and Producer Support for Spatially Targeted Ecosystem Service Policies.*
+
+**Essakkat, K., & Schoengold, K.**  
+*The Economics of Sustainable Farming: Understanding Cover Crop Adoption Decisions in the U.S. Midwest.*
 
 **Schoengold, K., Essakkat, K., Awada, L., et al.**  
-Comparing Willingness to Pay for Ecosystem Services Between Potential Buyers and Sellers  
+*Comparing Willingness to Pay for Ecosystem Services Between Potential Buyers and Sellers.*
 
-**Essakkat, K., & Schoengold, K.**  
-Drivers of Adoption of Cover Crops in the U.S. Midwest  
+## Contact
+
+I welcome opportunities for research collaboration and academic exchange.
+
+**Email:** [essakkat@illinois.edu](mailto:essakkat@illinois.edu)
